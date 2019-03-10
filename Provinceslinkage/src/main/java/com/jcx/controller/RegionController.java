@@ -1,11 +1,11 @@
-package org.westos.controller;
+package com.jcx.controller;
 
+import com.jcx.domain.Region;
+import com.jcx.service.RegionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
-import org.westos.domain.Region;
-import org.westos.service.RegionService;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package org.westos.domain;
+package com.jcx.domain;
 
 /**
  * 地点

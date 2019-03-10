@@ -1,9 +1,9 @@
-package org.westos.service;
+package com.jcx.service;
 
+import com.jcx.domain.Region;
+import com.jcx.mapper.RegionMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.westos.domain.Region;
-import org.westos.mapper.RegionMapper;
 
 import java.util.List;
 

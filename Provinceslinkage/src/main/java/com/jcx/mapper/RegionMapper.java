@@ -1,8 +1,8 @@
-package org.westos.mapper;
+package com.jcx.mapper;
 
 
+import com.jcx.domain.Region;
 import org.apache.ibatis.annotations.Select;
-import org.westos.domain.Region;
 
 import java.util.List;
 
